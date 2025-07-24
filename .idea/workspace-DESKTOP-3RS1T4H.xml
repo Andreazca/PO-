@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb178792-d977-463b-b1b2-648456a45777" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2nwgCExFr7YckBYt4gqqC5eREU5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Grupo6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/OneDrive/Documentos/NetBeansProjects/Grupo6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MenuPrincipal" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Frontend.MenuPrincipal" />
+      <module name="Grupo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb178792-d977-463b-b1b2-648456a45777" name="Changes" comment="" />
+      <created>1729889422897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729889422897</updated>
+      <workItem from="1729889423930" duration="1279000" />
+      <workItem from="1730048134923" duration="5000" />
+      <workItem from="1730313262055" duration="1247000" />
+      <workItem from="1730314722216" duration="2909000" />
+      <workItem from="1730743732969" duration="4189000" />
+      <workItem from="1730808692819" duration="837000" />
+      <workItem from="1731055320033" duration="3840000" />
+      <workItem from="1731078085040" duration="1291000" />
+      <workItem from="1731087290145" duration="4717000" />
+      <workItem from="1731251808123" duration="13589000" />
+      <workItem from="1731339148167" duration="12908000" />
+      <workItem from="1731424919201" duration="2392000" />
+      <workItem from="1731435156564" duration="4750000" />
+      <workItem from="1731440072996" duration="250000" />
+      <workItem from="1731440369835" duration="379000" />
+      <workItem from="1731506552061" duration="3926000" />
+      <workItem from="1731520996748" duration="2877000" />
+      <workItem from="1731524961997" duration="5982000" />
+      <workItem from="1731537390884" duration="786000" />
+      <workItem from="1731538220518" duration="128000" />
+      <workItem from="1731692252151" duration="1802000" />
+      <workItem from="1731694845180" duration="106000" />
+      <workItem from="1732039859489" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/../../../../../../Program Files/Amazon Corretto/jdk21.0.4_7/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>255</line>
+          <properties class="java.lang.Object" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Grupo6$MenuPrincipal.ic" NAME="MenuPrincipal Coverage Results" MODIFIED="1730318608623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Frontend.*</FILTER>
+    </SUITE>
+  </component>
+</project>
